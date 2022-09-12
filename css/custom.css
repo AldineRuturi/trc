@@ -1,0 +1,196 @@
+body{
+    overflow-x: hidden;
+}
+
+.bg-blue{
+    background-color: #234075;    
+}
+.text-blue{
+    color: #234075 !important;    
+}
+.text-gold{
+    color: #B9A879;    
+}
+.bg-gold{
+    background-color: #B9A879;    
+}
+.bg-gold-light{
+    background-color: rgba(185, 168, 121, 0.25);    
+}
+.bg-blue-grey{
+    background-color: rgba(47, 81, 132, 0.30);
+}
+.text-bold{
+    font-weight: bold;
+}
+.btn-blue{
+    background-color: #234075;
+    color:#fff;
+    cursor: pointer;
+}
+.btn-blue:hover{
+    background-color: hsl(219, 54%, 25%);
+    color: #fff;
+}
+.op-2{
+    opacity: 0.2;
+}
+.border-blue-r{
+    border-right: 2px solid #234075 !important;
+}
+.border-blue-l{
+    border-left: 2px solid #234075 !important;
+}
+
+.trc-navbar{
+    background-color: white;
+    color: #234075;
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 20%);
+}
+.trc-navbar ul li a{
+    color: #234075 !important;
+}
+.trc-navbar ul li a:hover{
+    color: #B9A879 !important;
+}
+.trc-navbar .img-default, .nav-transparent .img-replace{
+    display: none !important;
+}
+.trc-navbar .img-replace, .nav-transparent .img-default{
+    display: block;
+}
+.nav-transparent{
+    background-color: transparent;
+    margin-top: 3%;
+}
+.nav-transparent ul li a{
+    color: #fff !important;
+}
+.nav-transparent ul li a:hover{
+    color:#B9A879 !important;
+}
+
+.overlayblue{
+    background-color:rgba(9, 31, 87, 0.60);
+    display: block;
+}
+.slider-overlay{
+    background-color:rgba(9, 31, 87, 0.60);
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.social-nav{
+    font-size: 0.9rem;
+    display: block;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.social-nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding:2px;
+}
+.social-nav ul li a:hover, .social-nav ul li a i:hover{
+    color:#B9A879 !important;
+}
+.navbar-nav .nav-item .nav-link{
+    color: white;
+    margin-left:0.8rem;
+    margin-right: 0.8rem;
+}
+
+.container-title{
+    position: absolute;
+    left:35%;
+    right:35%;
+    padding-top:5%;
+
+}
+.serviceslist li{
+    list-style-type: none;
+    display: block;
+    max-width: 41%;
+}
+.servicetext{
+    font-size: 0.8rem;
+}
+.service-icon{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+}
+.service-icon i{
+    font-size: 2.7rem;
+    padding-left: 31%;
+    padding-top: 25%;
+    color:#234075;
+}
+
+.ministry .card{
+    box-shadow: 0px 2px 3px rgba(0,0,0,0.25);
+}
+
+.sermons .card{
+    box-shadow: 0px 2px 3px rgba(0,0,0,0.25);
+}
+.sermons .card .card-img-overlay{
+    background-color: rgba(0, 0, 0, 0.60);
+    color: #fff;
+    text-align: center;
+    bottom:19%;
+}
+.sermons .card .watch-btn{
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+
+}
+.sermons .card .card-footer{
+    font-size: 0.8rem;
+}
+
+.events .card .card-img-overlay{
+    background-color: rgba(47, 81, 132, 0.30);
+    color: #fff;
+    text-align: center;
+}
+
+.events .card .event-btn{
+    background-color: #fff;
+    color: #234075;
+
+}
+.mainevent h1{
+    margin-top:100%!important;
+}
+
+.mapcard{
+    margin-top: -4%
+}
+
+
+.footer-img{
+    position: absolute;
+    width: 300px;
+    right: 12px;
+    opacity: 0.2;
+}
+
+.footer-links li{
+    list-style-type: none;
+    margin-top: 6px;
+}
+.footer-links li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 0.85rem;
+}
+.footer-links li a:hover{
+    color:#B9A879;
+}
+.footer-3dfix{
+    z-index: 100;;
+}
