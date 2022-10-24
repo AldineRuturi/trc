@@ -194,3 +194,21 @@ body{
 .footer-3dfix{
     z-index: 100;;
 }
+
+/*Ministries*/
+.bg-ministries{
+    background-image: url('../images/medidate.jpg');
+    background-size: cover;
+}
+.page-title-overlay{
+    background-color:rgba(9, 31, 87, 0.60);
+    height: auto;
+   
+    width: 100%;
+}
+
+.card-logo{
+    position: absolute;
+    left: 44%;
+    right: auto;
+}
