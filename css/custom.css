@@ -85,7 +85,7 @@ body{
 .social-nav{
     font-size: 0.9rem;
     display: block;
-    border-bottom: 1px solid rgba(255,255,255,0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
 .social-nav ul li{
