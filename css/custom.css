@@ -247,3 +247,10 @@ body{
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+
+.belief-card p {
+    font-size:12px;
+}
+.belief-card small{
+    font-size: 10px;
+}
