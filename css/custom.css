@@ -2,6 +2,10 @@ body{
     overflow-x: hidden;
 }
 
+.bg-blue-light{
+    background-color: #e0e7f6 !important;
+}
+
 .bg-blue{
     background-color: #234075;    
 }
