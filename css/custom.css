@@ -167,6 +167,11 @@ body{
     color: #234075;
 
 }
+.eventscard{    
+    background-image: url('../images/worshipevents.jpg');
+    background-size:contain;
+    background-attachment: fixed;
+}
 .mainevent h1{
     margin-top:100%!important;
 }
